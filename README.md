@@ -1,6 +1,8 @@
 ## PROJECT SCREENSHOT
 
-![image](https://github.com/khalilahmed97/Airbnb-Clone/assets/101020879/887551e6-e8ea-4b82-bc88-307f096e36ea)
+![image](https://github.com/khalilahmed97/Airbnb-Clone/assets/101020879/6a77af58-3990-44ef-a87e-e66015f0de13)
+
+![image](https://github.com/khalilahmed97/Airbnb-Clone/assets/101020879/b31345e9-e41e-40b8-9e13-3dd04801b134)
 
 ## STEPS TO RUN THE PROJECT
 
